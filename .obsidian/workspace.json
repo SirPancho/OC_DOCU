@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c7bd20ba451e7a8f",
+        "id": "02f6200484eed0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "ffdadbe024df597a",
+            "id": "d3663c4eba2a3c86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assistant/001 Connection between Unity project and Assistant.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "001 Connection between Unity project and Assistant"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assistant/001 Connection between Unity project and Assistant.md",
+                "file": "Unity/001 Simulation in unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001 Connection between Unity project and Assistant"
+              "title": "Backlinks for 001 Simulation in unity"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assistant/001 Connection between Unity project and Assistant.md",
+                "file": "Unity/001 Simulation in unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 001 Connection between Unity project and Assistant"
+              "title": "Outgoing links from 001 Simulation in unity"
             }
           },
           {
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assistant/001 Connection between Unity project and Assistant.md",
+                "file": "Unity/001 Simulation in unity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001 Connection between Unity project and Assistant"
+              "title": "Outline of 001 Simulation in unity"
             }
           },
           {
@@ -194,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffdadbe024df597a",
+  "active": "39e35372c13a4497",
   "lastOpenFiles": [
+    "002_Installation.md",
+    "Assistant/001 Connection between Unity project and Assistant.md",
     "Images/Pasted image 20260715132713.png",
     "Images/Pasted image 20260715132707.png",
     "Images/Pasted image 20260715132655.png",
@@ -205,10 +203,8 @@
     "Images/Pasted image 20260715132612.png",
     "Images/Pasted image 20260715132607.png",
     "TwinCAT/001 Install OC_TwinCAT_CORE compiled library.md",
-    "Assistant/001 Connection between Unity project and Assistant.md",
     "Images/Pasted image 20260715132356.png",
     "Images/Pasted image 20260715132348.png",
-    "Images/Pasted image 20260715132002.png",
     "Unity/003 Create simulation elements.md",
     "Unity/002 CAD Import.md",
     "Unity/001 Simulation in unity.md",
@@ -217,7 +213,6 @@
     "Images",
     "Assistant",
     "TwinCAT",
-    "Unity",
-    "002_Installation.md"
+    "Unity"
   ]
 }
