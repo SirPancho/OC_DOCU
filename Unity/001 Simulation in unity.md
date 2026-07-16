@@ -17,6 +17,11 @@
 	1. Go to the OpenCommissioning Tab
 	2. Settings
 	3. Apply Default layers
+5. Go to project settings
+	1. Player
+	2. Check the box *run in background*
+
+![[Project settings player configuration.png]]
 
 # Create the project configuration for OC
 

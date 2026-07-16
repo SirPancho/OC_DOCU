@@ -1,11 +1,11 @@
 
 
-![[Pasted image 20260716122539.png]]
+![[multiple instances with same naming.png]]
 
-![[Pasted image 20260716122902.png]]
+![[Hierarchy component name is not sample.png]]
 
-![[Pasted image 20260716122818.png]]
+![[Hierarchy name is not sampler in twincat.png]]
 
-![[Pasted image 20260716122733.png]]
+![[Hierarchy component name as sampler.png]]
 
-![[Pasted image 20260716122654.png]]
+![[Hierarchy name is sampler in twincat.png]]
