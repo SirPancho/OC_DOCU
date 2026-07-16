@@ -24,3 +24,20 @@ All these components can be found in the GitHub repository of OC under the follo
 [Open Commissioning](https://github.com/OpenCommissioning)
 
 **NOTE:** It is always recommended to use the released versions of the different components of OC for creating simulations.
+
+
+
+# OC Assistant
+
+1. Before the *.exe* of the assistant can run install the following software
+
+- .NET Runtime 
+- ASP .NET core Runtime 
+
+![[NET_Runtime_installaation_requirements.png]]
+
+2. After the installation of the ASP .NET core runtime download the release version of the **OC_Assistant** from the Github repository
+3. Run the *.exe* file
+
+
+![[OC_Assistant_MainWindow.png]]

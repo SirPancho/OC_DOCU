@@ -17,3 +17,10 @@
 	1. Go to the OpenCommissioning Tab
 	2. Settings
 	3. Apply Default layers
+
+# Create the project configuration for OC
+
+1. Create a game object with the name **Project**
+![[Project_gameobject_as_parent_of_OC_simulation.png]]
+2. In the *Inspector window* add the **Tc Ads Client** element
+![[InspectorWindow_Project_TcAdsClient.png]]
