@@ -16,6 +16,8 @@ The CAD files to be used in the unity project must be in *.fbx*  or *.obj* form
 	4. place it next to the imported geometry
 6. If the geometry is not properly scaled into a coherent size, it is necessary to adjust the scaling
 
+![[Pasted image 20260722172027.png]]
+
 **NOTE:** The scaling process needs to be done before the reorganization of the meshes (geometries) into their corresponding devices or even before creating *Prefabs*, otherwise it could lead to other mechanical issues in the project.
 
 6. Verify that every sub-element which later will be reorganized as Prefab has no offset or has a relative origin
