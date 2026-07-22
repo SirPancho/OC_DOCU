@@ -11,7 +11,7 @@
 	5. Paste the link into the manifest file
 	6. Save the changes in the file and close
 
-![[Pasted image 20260715132002.png]]
+![[Manifest_json_with_OC_packages.png]]
 
 4. Apply default layers for the simulation
 	1. Go to the OpenCommissioning Tab

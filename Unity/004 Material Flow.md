@@ -2,19 +2,19 @@
 # POOL game object
 
 
-![[Pasted image 20260721160618.png]]
+![[Pool_object_in_scene.png]]
 
-![[Pasted image 20260721160703.png]]
+![[Setting the amount of payloads for the project.png]]
 
 ![[Pasted image 20260721160755.png]]
 
-![[Pasted image 20260721160838.png]]
+![[Adding_payloads_to_the_pool_list.png]]
 
 
 # Payload Inserter (SINK/SOURCE)
 
-![[Pasted image 20260721161849.png]]
+![[Sink_source_object_in_the_project_hierarchy.png]]
 
 
-![[Pasted image 20260721161932.png]]
+![[Set the payload id from pool in the source component.png]]
 

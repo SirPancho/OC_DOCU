@@ -5,10 +5,10 @@
 	1. Library Repository
 4. Click Install
 
-![[Pasted image 20260715132348.png]]
+![[Twincat_library_repository_install_new.png]]
 
 5. Select the OC_Core.library
 
-![[Pasted image 20260715132356.png]]
+![[oc_twincat_compiled_library.png]]
 
 6. Click OK

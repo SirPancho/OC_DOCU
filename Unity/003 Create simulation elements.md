@@ -8,8 +8,14 @@
 4. Add a Drive simple component to the sub element MA_Drive of the Prefab. The type of drive component to be added to the object depends on the type of drive with which the transport surface will be controlled.
 5. In the Transport component set the actor to the recently added MA_Drive
 
+**NOTE:** when creating a transport element, it is recommended that the transport object is alligned with the Z-Axis, this is by design the direction for FWD movement
+
 ![[Pasted image 20260715132132.png]]
 
+Configure the acceleration of the drive to *infinity*
+
+
+![[Drive_acceleration_config.png]]
 
 # 2.- Payload element
 

@@ -28,7 +28,7 @@ All these components can be found in the GitHub repository of OC under the follo
 
 # Unity Editor version
 
-![[Pasted image 20260721142520.png]]
+![[Unitiy editor installing modules.png]]
 
 
 # OC Assistant

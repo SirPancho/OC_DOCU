@@ -2,13 +2,13 @@
 
 # General Scene configuration
 
-![[Pasted image 20260715132607.png]]
+![[create_project_object_in_scene.png]]
 
-![[Pasted image 20260715132612.png]]
+![[unity_tc_client_connection_settings.png]]
 
 ![[Pasted image 20260715132621.png]]
 
-![[Pasted image 20260715132629.png]]
+![[unity_console_confirmation_configuration_update.png]]
 
 # Game objects hierarchy settings
 
@@ -20,6 +20,6 @@ In order to stablish the same hierarchy of function blocks in the TwinCAT projec
 
 **View of the configuration xml for the creation of the function blocks in TwinCAT**
 
-![[Pasted image 20260715132707.png]]
+![[Project_configration_xml.png]]
 
 ![[Pasted image 20260715132713.png]]
