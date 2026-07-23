@@ -37,4 +37,4 @@ If the Sensor is going to move and the detection flag is going to remain static,
 
 # 4.- Linear actuator element
 
-## 4.1 Adjusting the origin of an Axis
+![[Pasted image 20260723133354.png]]

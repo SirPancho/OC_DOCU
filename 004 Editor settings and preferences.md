@@ -1,4 +1,15 @@
 
+## Enable play mode running in the background
+
+To enable the scene run in play mode when the mouse is interacting with other applications.
+
+1. go to *Edit*
+2. select *Project settings*
+3. select the option *Player*
+4. Check the box  *Run in Background*
+5. close the project settings window
+
+![[Enable_running_in_background.png]]
 ## Change the handling position to the origin of the game object
 
 In the upper left corner of the *Scene* tab click in the drop down and select **PIVOT** 
