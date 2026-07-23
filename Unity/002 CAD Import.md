@@ -8,7 +8,9 @@ The CAD files to be used in the unity project must be in *.fbx*  or *.obj* form
 ![[CAD_file_imported_in_the_scene.png]]
 
 4. Select *Unpack*
+
 ![[Unpack_CAD_file.png]]
+
 5. Verify the scaling of the imported geometry by comparing against a simple cube [[003 Reference cube]]
 	1. In the main Scene 
 	2. create 3D object
@@ -16,7 +18,9 @@ The CAD files to be used in the unity project must be in *.fbx*  or *.obj* form
 	4. place it next to the imported geometry
 6. If the geometry is not properly scaled into a coherent size, it is necessary to adjust the scaling
 
-![[Pasted image 20260722172027.png]]
+![[Reference_cube_in_scene.png]]
+
+![[afterscale_comparison_against_reference_cube.png]]
 
 **NOTE:** The scaling process needs to be done before the reorganization of the meshes (geometries) into their corresponding devices or even before creating *Prefabs*, otherwise it could lead to other mechanical issues in the project.
 
