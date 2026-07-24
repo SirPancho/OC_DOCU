@@ -37,6 +37,7 @@ By editing the size properties of a game object, it is possible to enable *const
 
 
 
+## Snapins tool "S" shortcut
 
 
-
+![[Pasted image 20260724100636.png]]

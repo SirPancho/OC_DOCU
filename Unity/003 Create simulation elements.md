@@ -38,3 +38,37 @@ If the Sensor is going to move and the detection flag is going to remain static,
 # 4.- Linear actuator element
 
 ![[Pasted image 20260723133354.png]]
+
+
+## Source (feed in payloads)
+
+1. Create a cube as child of the #prefab
+2. Rename the cube as *source*.
+
+![[Pasted image 20260724151705.png]]
+
+3. Position the cube where the #payload should be created.
+4. Adjust the scale of the cube according to the size of the payloads and the area where they will be generated.
+ 
+**NOTE:** The #payload will be generated at the origin of the source object and the origin of the pay load will be located with the origin of the source object.
+
+![[Pasted image 20260724151722.png]]
+
+![[Pasted image 20260724151817.png]]
+
+**NOTE:** The selected material for the source cube is optional can be replaced as preferred.
+
+5. To create a payload with the source object, the payload has to be defined as an element of the #Pool object. The #payload will be referenced with the *Type ID*. it can be defined directly in the #Prefab as a fixed value or at each instance in the #Scene.
+6. If it is needed the source element can be set to create automatically #Payload. For this it is necessary to mark the check box *Auto Mode*. As long as the box collider of the source is free of detecting a #payload , it will create a new one.
+
+![[Pasted image 20260724160922.png]]
+
+## Sink (feed out payloads)
+
+![[Pasted image 20260724151912.png]]
+
+![[Pasted image 20260724151933.png]]
+
+![[Pasted image 20260724152008.png]]
+
+**NOTE:** The selected material for the sink cube is optional can be replaced as preferred.
